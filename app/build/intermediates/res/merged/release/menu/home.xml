@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".Home">
+
+    <item
+        android:id="@+id/action_irc"
+        android:showAsAction="withText|ifRoom"
+        android:title="@string/action_irc"
+        android:titleCondensed="@string/action_irc_short"
+        android:orderInCategory="10" />
+    <item
+        android:id="@+id/action_website"
+        android:showAsAction="withText|ifRoom"
+        android:title="@string/action_website"
+        android:titleCondensed="@string/action_website_short"
+        android:orderInCategory="10" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@android:drawable/stat_notify_sync_noanim"
+        android:showAsAction="always"
+        android:title="@string/action_refresh"
+        android:orderInCategory="90" />
+    <item
+        android:id="@+id/action_about"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:showAsAction="always"
+        android:title="@string/action_about"
+        android:orderInCategory="100" />
+</menu>

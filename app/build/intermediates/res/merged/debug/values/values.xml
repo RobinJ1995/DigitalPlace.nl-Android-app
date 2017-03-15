@@ -28,7 +28,7 @@
     <string name="title_activity_about">Over</string>
     <string name="title_activity_irc">#DPF</string>
     <string name="title_irc">IRC</string>
-    <string name="title_posts">Forumposts</string>
+    <string name="title_posts">Posts</string>
     <string name="title_topics">Topics</string>
     <string name="url">DigitalPlace.nl</string>
     <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">

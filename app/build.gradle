@@ -8,7 +8,7 @@ android {
         applicationId "be.robinj.digitalplace"
         minSdkVersion 15
         targetSdkVersion 19
-        versionCode 5h
+        versionCode 6
         versionName "2.2.1"
     }
     buildTypes {
@@ -26,6 +26,6 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:support-v4:25.0.0'
+    compile 'com.android.support:support-v4:19.0.0'
     compile 'org.pircbotx:pircbotx:2.0.1'
 }

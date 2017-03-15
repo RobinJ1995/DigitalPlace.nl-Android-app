@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="be.robinj.digitalplace.IrcActivity"
+    android:background="@color/dpHeaderBg">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/etMessage">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvLog"
+            android:typeface="monospace"
+            android:textColor="@color/white"/>
+    </ScrollView>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/etMessage"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/btnSay"
+        android:layout_toStartOf="@+id/btnSay"
+        android:layout_alignTop="@+id/btnSay"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:enabled="false"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/irc_say"
+        android:id="@+id/btnSay"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:enabled="false"
+        android:onClick="btnSay_clicked"
+        android:textColor="@color/white"
+        android:background="@color/dpPostBg"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/irc_connect"
+        android:id="@+id/btnConnect"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="28dp"
+        android:onClick="btnConnect_clicked"
+        android:textColor="@color/white"
+        android:background="@color/dpPostBg"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"/>
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pbConnecting"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:indeterminate="true"
+        android:visibility="gone"/>
+</RelativeLayout>

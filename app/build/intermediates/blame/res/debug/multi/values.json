@@ -343,8 +343,8 @@
                     "startLine": 30,
                     "startColumn": 4,
                     "startOffset": 1484,
-                    "endColumn": 50,
-                    "endOffset": 1530
+                    "endColumn": 45,
+                    "endOffset": 1525
                 },
                 "from": {
                     "file": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/values/strings.xml",
@@ -352,8 +352,8 @@
                         "startLine": 5,
                         "startColumn": 4,
                         "startOffset": 157,
-                        "endColumn": 50,
-                        "endOffset": 203
+                        "endColumn": 45,
+                        "endOffset": 198
                     }
                 }
             },
@@ -361,9 +361,9 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1535,
+                    "startOffset": 1530,
                     "endColumn": 47,
-                    "endOffset": 1578
+                    "endOffset": 1573
                 },
                 "from": {
                     "file": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/values/strings.xml"
@@ -373,9 +373,9 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 1583,
+                    "startOffset": 1578,
                     "endColumn": 47,
-                    "endOffset": 1626
+                    "endOffset": 1621
                 },
                 "from": {
                     "file": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/values/strings.xml"
@@ -385,10 +385,10 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 1631,
+                    "startOffset": 1626,
                     "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 1785
+                    "endOffset": 1780
                 },
                 "from": {
                     "file": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/values/styles.xml"
@@ -398,10 +398,10 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 1790,
+                    "startOffset": 1785,
                     "endLine": 40,
                     "endColumn": 12,
-                    "endOffset": 2079
+                    "endOffset": 2074
                 },
                 "from": {
                     "file": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/values/styles.xml"
@@ -411,10 +411,10 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2084,
+                    "startOffset": 2079,
                     "endLine": 44,
                     "endColumn": 12,
-                    "endOffset": 2297
+                    "endOffset": 2292
                 },
                 "from": {
                     "file": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/values/styles.xml"

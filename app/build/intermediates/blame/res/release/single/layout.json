@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/release/layout/dplistview.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/layout/dplistview.xml"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/release/layout/activity_home.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/release/layout/activity_about.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/release/layout/fragment_navigation_drawer.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/release/layout/fragment_home.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/release/layout/activity_irc.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/layout/activity_irc.xml"
+    }
+]
