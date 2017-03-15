@@ -11,15 +11,6 @@
         <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/commons-lang3-3.1_8a73f33ed28fafabead0522455e43ac0a9874604.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/b0f0d795f59f7a5c6ec3e4e16ab30eac5b55c581/output/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_cc4c0bc87eea52b3cdc8369ca0a25b4d7249c987.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/home/robin/.android/build-cache/b29073056acb8bbe07d290329f06e4fa8f1b231e/output/jars/classes.jar"
         jumboMode="true"
@@ -38,15 +29,6 @@
         <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/commons-codec-1.8_c962838c8fdeebe222365dfbed857d5a2027521b.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/73e37d796a10aab35790c1aa9837b675db59f88f/output/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_3ecb335213098e822458a4dcb75d410e5b1513cc.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/home/robin/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.1/905075e6c80f206bbe6cf1e809d2caa69f420c76/commons-lang3-3.1.jar"
         jumboMode="true"
@@ -54,15 +36,6 @@
         revision="25.0.0"
         sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
         <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.1_8a73f33ed28fafabead0522455e43ac0a9874604/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/e44240fbec27796edf7a0fe5de8673144af79496/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/classes_2fb8d390651348eb90ed337da6b5952a239121e9.jar" />
     </item>
     <item
         is-multidex="true"
@@ -101,15 +74,6 @@
         <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-codec-1.8_c962838c8fdeebe222365dfbed857d5a2027521b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/ed18eddaca00d3ccf8c975c3225d4abd5fbaba7b/output/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_98848ea08a325a097ab9678e1cbd176287cd7014.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/home/robin/.android/build-cache/a9f589818b79d7ad116db0031d3b06abc490b958/output/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
@@ -126,15 +90,6 @@
         revision="25.0.0"
         sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
         <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-15.0_04ef8b032b066d3a1573cd7df1ddcb9a8b847c10/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/a9f589818b79d7ad116db0031d3b06abc490b958/output/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_88b60e800a975ee551709a5d1d747f127dbc8a80.jar" />
     </item>
     <item
         is-multidex="false"
@@ -173,15 +128,6 @@
         <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_656a07d0bd358fdfeb2a69632838e56dc876e985/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/robin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/support-annotations-25.0.0_656a07d0bd358fdfeb2a69632838e56dc876e985.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/home/robin/.android/build-cache/73e37d796a10aab35790c1aa9837b675db59f88f/output/jars/classes.jar"
         jumboMode="true"
@@ -198,15 +144,6 @@
         revision="25.0.0"
         sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
         <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.5_1a8343f8cad1012962d356edf8172bf1b4771f17/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/73e37d796a10aab35790c1aa9837b675db59f88f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/classes_ca0456b728f03f8f1695b98597c542450a6ba2bf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -227,24 +164,6 @@
         <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10/pircbotx-2.0.1_c84cd2eb322ed2bfd0d26b14407595c848f7ce63/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/ed18eddaca00d3ccf8c975c3225d4abd5fbaba7b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/classes_76a963bbbed7a463905a751bce328c4fe6fdcf36.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/b29073056acb8bbe07d290329f06e4fa8f1b231e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/classes_cff876b6bd767f3ce3ad57a2db18f4a41b6f65ad.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/home/robin/.android/build-cache/ed18eddaca00d3ccf8c975c3225d4abd5fbaba7b/output/jars/classes.jar"
         jumboMode="true"
@@ -261,24 +180,6 @@
         revision="25.0.0"
         sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
         <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bf78265e192c3e8e9d9b66d448ab1767b5b45d3/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/a9f589818b79d7ad116db0031d3b06abc490b958/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/classes_7bf78265e192c3e8e9d9b66d448ab1767b5b45d3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/robin/.android/build-cache/b29073056acb8bbe07d290329f06e4fa8f1b231e/output/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_3e2c66c5891ea6f39dc7a009d46c55176c5a9fbb.jar" />
     </item>
     <item
         is-multidex="true"
@@ -300,12 +201,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/robin/.android/build-cache/b0f0d795f59f7a5c6ec3e4e16ab30eac5b55c581/output/jars/classes.jar"
+        jar="/home/robin/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/classes_af099d5fd644ec56b96b95c1f9f6c35934798e37.jar" />
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/pre-dexed/release/support-v4-19.0.0_582a0179c0cfa4c847472196d5bc1f8beb010569.jar" />
     </item>
     <item
         is-multidex="true"

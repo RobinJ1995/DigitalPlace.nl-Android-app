@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Mar 15 18:49:34 GMT 2017
+#Wed Mar 15 18:50:00 GMT 2017
 122.file=/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/mergeJavaRes/release/jars/2/1f/main.jar/org/apache/commons/codec/language/bm/gen_exact_dutch.txt
 60.set=ANDROID_RESOURCE
 129.file=/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/drawer_shadow.9.png

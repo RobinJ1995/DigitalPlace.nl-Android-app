@@ -19,12 +19,6 @@ ADDED from /data/Dropbox/Projects/DigitalPlace.nl/app/src/main/AndroidManifest.x
 		ADDED from /data/Dropbox/Projects/DigitalPlace.nl/app/src/main/AndroidManifest.xml:5:22-64
 application
 ADDED from /data/Dropbox/Projects/DigitalPlace.nl/app/src/main/AndroidManifest.xml:7:5-37:19
-MERGED from [com.android.support:support-v4:25.0.0] /home/robin/.android/build-cache/e44240fbec27796edf7a0fe5de8673144af79496/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.0] /home/robin/.android/build-cache/73e37d796a10aab35790c1aa9837b675db59f88f/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.0] /home/robin/.android/build-cache/a9f589818b79d7ad116db0031d3b06abc490b958/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.0] /home/robin/.android/build-cache/ed18eddaca00d3ccf8c975c3225d4abd5fbaba7b/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.0] /home/robin/.android/build-cache/b29073056acb8bbe07d290329f06e4fa8f1b231e/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.0] /home/robin/.android/build-cache/b0f0d795f59f7a5c6ec3e4e16ab30eac5b55c581/output/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /data/Dropbox/Projects/DigitalPlace.nl/app/src/main/AndroidManifest.xml:10:9-41
 	android:allowBackup
@@ -73,14 +67,6 @@ ADDED from /data/Dropbox/Projects/DigitalPlace.nl/app/src/main/AndroidManifest.x
 		ADDED from /data/Dropbox/Projects/DigitalPlace.nl/app/src/main/AndroidManifest.xml:30:13-40
 uses-sdk
 INJECTED from /data/Dropbox/Projects/DigitalPlace.nl/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:25.0.0] /home/robin/.android/build-cache/e44240fbec27796edf7a0fe5de8673144af79496/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.0] /home/robin/.android/build-cache/73e37d796a10aab35790c1aa9837b675db59f88f/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.0] /home/robin/.android/build-cache/a9f589818b79d7ad116db0031d3b06abc490b958/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.0] /home/robin/.android/build-cache/ed18eddaca00d3ccf8c975c3225d4abd5fbaba7b/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.0] /home/robin/.android/build-cache/b29073056acb8bbe07d290329f06e4fa8f1b231e/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.0.0] /home/robin/.android/build-cache/b0f0d795f59f7a5c6ec3e4e16ab30eac5b55c581/output/AndroidManifest.xml:21:5-23:58
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.0.0] /home/robin/.android/build-cache/e44240fbec27796edf7a0fe5de8673144af79496/output/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /data/Dropbox/Projects/DigitalPlace.nl/app/src/main/AndroidManifest.xml
 		INJECTED from /data/Dropbox/Projects/DigitalPlace.nl/app/src/main/AndroidManifest.xml
