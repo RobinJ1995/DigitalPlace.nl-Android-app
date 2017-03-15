@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/debug/menu/irc.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/menu/irc.xml"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/debug/menu/about.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/menu/about.xml"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/menu/global.xml"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/menu/home.xml"
+    }
+]

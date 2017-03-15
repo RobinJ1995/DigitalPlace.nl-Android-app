@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/debug/drawable-xhdpi/drawer_shadow.9.png",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_drawer.png",
+        "source": "/data/Dropbox/Projects/DigitalPlace.nl/app/src/main/res/drawable-xhdpi/ic_drawer.png"
+    }
+]

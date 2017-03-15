@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dpTitle">#ffbb26</color>
+    <color name="white">#ffffff</color>
+    <color name="secondary">#b2b2b2</color>
+    <color name="dpPostBg">#202020</color>
+    <color name="dpHeaderBg">#373737</color>
+</resources>

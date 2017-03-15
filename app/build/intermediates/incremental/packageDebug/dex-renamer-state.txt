@@ -1,0 +1,7 @@
+#Wed Mar 15 18:43:30 GMT 2017
+base.0=/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c0ffc92d02f0a53e9863219b61fffed177135e3e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_43ea4f9acc08c7c87d386767fe5778cc895d6c1d/classes.dex
+base.1=/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_43ea4f9acc08c7c87d386767fe5778cc895d6c1d
+file.0=/data/Dropbox/Projects/DigitalPlace.nl/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c0ffc92d02f0a53e9863219b61fffed177135e3e/classes.dex

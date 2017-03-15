@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DigitalPlace.nl</string>
+    <string name="title_topics">Topics</string>
+    <string name="title_posts">Posts</string>
+    <string name="title_irc">IRC</string>
+    <string name="navigation_drawer_open">Menu</string>
+    <string name="navigation_drawer_close">Menu sluiten</string>
+    <string name="action_website">Bezoek website</string>
+    <string name="action_website_short">www</string>
+    <string name="action_refresh">Vernieuwen</string>
+    <string name="action_about">Over</string>
+    <string name="title_activity_about">Over</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="url">DigitalPlace.nl</string>
+    <string name="developer">RobinJ.be</string>
+    <string name="thisegzz">Thijs Broenink</string>
+    <string name="robin">Robin Jacobs</string>
+
+    <string name="title_activity_irc">#DPF</string>
+    <string name="irc_connect">Verbinden</string>
+    <string name="irc_disconnect">Verbinding verbreken</string>
+    <string name="irc_say">Verstuur</string>
+    <string name="action_irc">Chat op IRC</string>
+    <string name="action_irc_short">IRC</string>
+
+
+</resources>
