@@ -8,8 +8,8 @@ android {
         applicationId "be.robinj.digitalplace"
         minSdkVersion 15
         targetSdkVersion 19
-        versionCode 5g
-        versionName "2.2"
+        versionCode 5h
+        versionName "2.2.1"
     }
     buildTypes {
         release {
